@@ -1,0 +1,26 @@
+
+body {
+    background-color: #3c1d42;
+    color: rgb(110, 208, 188);
+    font-family: "Playwrite CU", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    margin: 0;
+}
+
+button {
+    background-color: #1fd1d4;
+    color: rgb(59, 24, 55);
+    font-family: "Playwrite CU", cursive;
+}
+
+
+
+
+
+
+
+
+
